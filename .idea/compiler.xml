@@ -2,14 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-04" />
         <module name="Spring-08-proxy" />
+        <module name="Spring-10-mybatis" />
         <module name="Spring-05-Autowired" />
         <module name="Spring-02-HelloSpring" />
+        <module name="Spring-11" />
         <module name="Spring-01-ioc" />
         <module name="Spring-03" />
         <module name="Spring-07-appconfig" />
